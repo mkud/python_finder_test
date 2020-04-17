@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/mkud/python_finder_test.svg?branch=master)](https://travis-ci.com/mkud/python_finder_test)
+
 # Test task `Finder`
 
 Short task description:
